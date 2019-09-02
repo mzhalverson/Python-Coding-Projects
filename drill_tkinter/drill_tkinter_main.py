@@ -11,7 +11,6 @@
 
 from tkinter import *
 import tkinter as tk
-from tkinter import filedialog
 
 
 # Be sure to import our other modules
